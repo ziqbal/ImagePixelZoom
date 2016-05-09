@@ -6,3 +6,5 @@ Zoom an image to a particaular pixel and replace the pixel with the image itself
 php proc.php
 
 ```
+
+Movie is created using ffmpeg from the PNG files output in the _cache_ folder.
