@@ -9,6 +9,11 @@
 
 */
 
+
+if(!is_dir("_cache_")){
+	mkdir("_cache_");
+}
+
 $im1 = imagecreatefromstring ( file_get_contents( "in.png" ) ) ;
 
 $im1w = imagesx( $im1 ) ;
