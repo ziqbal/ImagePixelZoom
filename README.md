@@ -7,4 +7,4 @@ php proc.php
 
 ```
 
-Movie is created using ffmpeg from the PNG files output in the _cache_ folder.
+Movie is manually created using ffmpeg from the PNG files output in the _cache_ folder.
